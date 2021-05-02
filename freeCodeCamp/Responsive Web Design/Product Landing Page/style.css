@@ -1,0 +1,50 @@
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #282828;
+}
+
+h1{
+    position: absolute;
+    padding: 3px;
+    margin-left: 2%;
+    margin-top:10px;
+    color: #39ca74;
+    float: left;
+    padding-bottom: 30px;
+    font-family: 'Alfa Slab One';
+}
+
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Alfa Slab One';
+
+}
+
+span{
+    color:#ffffff;
+}
+
+li:hover{
+    background-color: black;
+    color: #F0c330;
+    transition: 0.5s;
+    transition: 0.5s
+}
+a:hover{
+    color: #F0c330;
+    transition: 0.5s;
+}
